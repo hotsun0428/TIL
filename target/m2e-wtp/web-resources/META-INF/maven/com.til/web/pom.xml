@@ -115,6 +115,13 @@
 			<artifactId>junit</artifactId>
 			<version>4.7</version>
 			<scope>test</scope>
+		</dependency>
+		
+		<!-- siteMesh -->
+		<dependency>
+			<groupId>opensymphony</groupId>
+			<artifactId>siteMesh</artifactId>
+			<version>2.4.2</version>
 		</dependency>        
 	</dependencies>
     <build>
